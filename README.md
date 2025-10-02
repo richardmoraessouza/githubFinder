@@ -24,8 +24,8 @@ O **GitHub Finder** é uma aplicação React que permite aos usuários buscar pe
 - **Vite 7.1.7** - Build tool e servidor de desenvolvimento
 - **React Router DOM 7.9.3** - Roteamento de páginas
 - **React Icons 5.5.0** - Ícones para interface
-- **Sass/SCSS** - Pré-processador CSS
 - **ESLint** - Linting de código
+- Bootstrap 5.3.3 – Framework CSS para estilos e componentes responsivos
 
 ## 🚀 Como Executar o Projeto
 
@@ -152,7 +152,10 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Desenvolvido com ❤️ por [Seu Nome]
+**Richard Moraes Souza**
+- GitHub: [@richardmoraessouza](https://github.com/richardmoraessouza)
+- LinkedIn: [Richard Moraes Souza](https://www.linkedin.com/in/richard-moraes-souza/)
+
 
 ---
 
