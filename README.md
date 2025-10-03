@@ -8,6 +8,10 @@ Uma aplicação web moderna para buscar e explorar perfis de usuários do GitHub
 
 O **GitHub Finder** é uma aplicação React que permite aos usuários buscar perfis do GitHub e visualizar informações detalhadas sobre os usuários e seus repositórios mais populares. A aplicação utiliza a API oficial do GitHub para buscar dados em tempo real.
 
+## 🚀 Demonstração
+
+Acesse a versão online: [Github Filder](https://findergithubproject.netlify.app/)
+
 ## ✨ Funcionalidades
 
 - 🔍 **Busca de Usuários**: Digite o nome de qualquer usuário do GitHub para encontrar seu perfil
